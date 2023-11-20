@@ -1,0 +1,8 @@
+.header, .footer {
+  font-family: 'Dancing Script', cursive;
+  height: 7vh;
+  background-image: linear-gradient(to right, rgb(41, 101, 155), rgb(38, 98, 189), rgb(0, 132, 255),rgb(146, 199, 234));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
