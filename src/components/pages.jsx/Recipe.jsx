@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Recipe() {
+function Recipe({selectedResipe}) {
   return (
-    <div>Recipe</div>
+    <div>{selectedResipe.Name}</div>
   )
 }
 

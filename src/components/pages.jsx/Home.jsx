@@ -2,7 +2,7 @@ import React from 'react'
 
 import reciepes from '../../data/recipes.json'
 
-function Home() {
+function Home({setResipe}) {
   function handlerClick() {
 
   }
