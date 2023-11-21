@@ -42,3 +42,27 @@
   padding: 7px;
   font-weight: bold;
 }
+
+.recipe {
+  display: flex;
+  padding: 2vh 10vw;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2vh;
+  color: rgb(10, 10, 104);
+  font-size: 1.2em;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+};
+
+.video {
+  display: flex;
+  gap: 2vw
+}
+
+
+
